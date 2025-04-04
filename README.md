@@ -1,2 +1,3 @@
-# tfvars-test-040425
-To test out using tfvars file for different env for the capstone proj
+## Test out Terraform Workspaces & tfvars
+
+To test out using tfvars file for dev & prod environments for the capstone proj
